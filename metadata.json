@@ -1,0 +1,7 @@
+{
+  "name": "PPDB Darul Huda Portal",
+  "description": "Sistem Penerimaan Peserta Didik Baru (PPDB) terpadu untuk MTs dan MA Darul Huda dengan panel administrasi modern.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
